@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
+main{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+#un3d-app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
